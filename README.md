@@ -1,5 +1,4 @@
 # todos
-
 ## Project setup
 ```
 npm install
